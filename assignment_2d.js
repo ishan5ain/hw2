@@ -1,5 +1,8 @@
 //Assignment 2d: stroke color of each line depends on its start point's x coordinate
-//To be run in Rudy
+
+function setup() {
+  createCanvas(340, 340);
+}
 
 function draw(){
   // Calculating the random x-coordinate first and storing it in variable x

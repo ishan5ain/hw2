@@ -1,5 +1,4 @@
 //Assignment 2.a
-//To be run in Rudy
 
 function setup() {
  createCanvas(340, 340);
